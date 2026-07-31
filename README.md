@@ -27,3 +27,12 @@ This repository provides recruiters, hiring managers, and interviewers with a de
 ## Privacy and Use
 
 This public version intentionally excludes direct private contact details and internal job-application materials. The professional information in this repository is provided for recruitment and professional-review purposes. No license is granted for redistribution or reuse.
+
+
+### Note
+Yup, this repository is made with the usage of AI:
+1. Have the AI to scan through my career history in LinkedIn, GitHub, Resumes and Performance Review documents.
+2. Generate a master resume with the information, I verify and make sure that the generated document is accurate.
+3. From the master resume, generate the resume that is targeting the job that I am applying. I check again to verify that the information are true.
+4. Generate the PDF, and send it out.
+

@@ -5,13 +5,6 @@
 > A comprehensive, public-facing record of verified professional experience, projects, technical capabilities, and education.
 
 
-### Note
-Yes, this repository is made with the usage of AI:
-1. Ask the AI to scan through my career history in LinkedIn, GitHub, Resumes and Performance Review documents.
-2. Generate a master resume with the information, I verify and make sure that the generated document is accurate.
-3. From the master resume, generate the resume that is targeting the job that I am applying. I check again to verify that the information are true.
-4. Generate the PDF, and send it out.
-
 
 ---
 
