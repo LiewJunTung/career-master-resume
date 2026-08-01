@@ -1,9 +1,9 @@
 # Liew Jun Tung
 
+
 ## Public Master Resume
 
 > A comprehensive, public-facing record of verified professional experience, projects, technical capabilities, and education.
-
 
 
 ---
@@ -12,7 +12,8 @@
 
 **Location:** Singapore  
 **LinkedIn:** <https://linkedin.com/in/liewjuntung>  
-**GitHub:** <https://github.com/LiewJunTung>
+**GitHub:** <https://github.com/LiewJunTung>  
+**Full Career History:** <https://github.com/LiewJunTung/career-master-resume>
 
 ---
 
@@ -28,7 +29,7 @@ Senior Software Engineer with over **12 years of experience** designing and deli
 
 Experienced in leading architecture decisions spanning native and cross-platform mobile applications, distributed backend systems, financial and payout platforms, release automation, CI/CD, developer tooling, and operational workflows. Proven track record of translating ambiguous product and engineering requirements into maintainable systems that improve delivery speed, reliability, and developer productivity.
 
-Comfortable working across the software stack—from Kotlin, Android NDK, Flutter, and cross-platform SDK integration to Django, PostgreSQL, GraphQL, Celery, SQS, Docker, cloud services, and internal web platforms. Known for identifying repetitive or fragile engineering processes and replacing them with reusable architecture, automation, and clear technical standards.
+Comfortable working across the software stack—from Kotlin, Android NDK, Flutter, and cross-platform SDK integration to Django, PostgreSQL, GraphQL, Celery, SQS, Docker, cloud services, and internal web platforms. Uses specialized AI agents across planning, implementation, testing, debugging, and review to deliver end-to-end features while retaining human ownership of architecture, security, correctness, and release decisions. Known for identifying repetitive or fragile engineering processes and replacing them with reusable architecture, automation, and clear technical standards.
 
 ---
 
@@ -40,6 +41,7 @@ Comfortable working across the software stack—from Kotlin, Android NDK, Flutte
 - Designed a white-label mobile platform supporting **7 enterprise brands** from a shared codebase.
 - Introduced centralized artifact management, standardizing native libraries, SDKs, frameworks, and application artifact distribution.
 - Automated cross-platform SDK bindings, integration, and code generation, reducing repetitive engineering work.
+- Orchestrated specialized AI agents across feature planning, implementation, testing, debugging, and review to support end-to-end software delivery with human quality gates.
 - Designed backend platform architecture supporting wallets, cashback, creator earnings, withdrawals, payout recipients, and immutable ledger records.
 - Designed asynchronous processing systems using Celery, Amazon SQS, Scrapy, Docker, and LocalStack.
 - Built product URL normalization, variant extraction, and matching systems to improve catalog accuracy and reduce duplicates.
@@ -117,6 +119,15 @@ Comfortable working across the software stack—from Kotlin, Android NDK, Flutte
 - Developer productivity
 - Technical documentation
 
+## AI-Assisted Engineering
+
+- Multi-agent software delivery workflows
+- Agent-assisted requirements decomposition and planning
+- End-to-end feature implementation and integration
+- Agent-assisted testing, debugging, and code review
+- Human-in-the-loop architecture, security, and quality control
+- Prompt and context design for engineering tasks
+
 ---
 
 # Professional Experience
@@ -125,7 +136,7 @@ Comfortable working across the software stack—from Kotlin, Android NDK, Flutte
 
 ### NetVirta Inc.
 
-**January 2018 – August 2026 | Singapore**
+**January 2018 – July 2026 | Singapore**
 
 Designed and delivered production software spanning mobile applications, backend platforms, SDKs, engineering infrastructure, data workflows, third-party integrations, and internal developer tooling.
 
@@ -192,7 +203,8 @@ Architected and improved the engineering systems surrounding development, testin
 
 - Developed automation and monitoring systems that eliminated repetitive engineering tasks.
 - Built operational dashboards and engineering tools to improve visibility into CI health, release performance, and development workflows.
-- Evaluated and refined AI-assisted engineering workflows using specialized planning, implementation, review, and testing agents.
+- Orchestrated and refined specialized AI agents for planning, implementation, testing, debugging, and review across end-to-end feature delivery.
+- Retained human ownership of architecture, security, correctness, regression analysis, and release decisions in AI-assisted workflows.
 - Defined review standards covering security, performance, tests, edge cases, maintainability, migration risk, regressions, and preservation of prior behaviour.
 
 ---
@@ -623,6 +635,8 @@ Developing operational dashboards using server-rendered web technologies.
 - Migration planning
 - Developer productivity
 - AI-assisted software development
+- AI-agent orchestration
+- Human-in-the-loop engineering review
 
 ---
 
